@@ -14,7 +14,7 @@ Assistant professor
 Emory University  
 
 Graduate programs:  
-[The Graduate Division of Biological and Biomedical Sciences (GDBBS)](https://biomed.emory.edu)  
+The Graduate Division of Biological and Biomedical Sciences (GDBBS)
   * [The Immunology and Molecular Pathogenesis (IMP) program](https://biomed.emory.edu/PROGRAM_SITES/IMP/)  
   * [The Genetics and Molecular Biology (GMB) program](https://biomed.emory.edu/PROGRAM_SITES/GMB/)  
 
