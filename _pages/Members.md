@@ -10,7 +10,7 @@ author_profile: true
 ### Boyoung Shin
 
 Assistant professor   
-[Department of Microbiology and Immunology](https://med.emory.edu/departments/microbiology-immunology/index.html).  
+[Department of Microbiology and Immunology](https://med.emory.edu/departments/microbiology-immunology/index.html)  
 Emory University  
 
 Graduate programs:  
