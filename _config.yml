@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Shin lab @ Emory / Shin lab @ Emory"
+title                    : "Shin lab @ Emory"
 title_separator          : "-"
 name                     : &name "Shin lab @ Emory"
 description              : &description ""   # Update this with a general description of your site, this is the default if not overridden by a page
