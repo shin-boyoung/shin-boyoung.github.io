@@ -9,16 +9,16 @@
 
 main:
   - title: "Research"
-    url: /research/
+    url: /Research/
 
   - title: "Publications"
-    url: /publications/    
+    url: /Publications/    
 
   - title: "Members"
-    url: /members/    
+    url: /Members/    
     
   - title: "Contact"
-    url: /contact/
+    url: /Contact/
         
  # - title: "Blog Posts"
  #   url: /year-archive/
