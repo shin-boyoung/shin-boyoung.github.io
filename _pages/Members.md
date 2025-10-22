@@ -9,8 +9,8 @@ author_profile: true
 
 ### Boyoung Shin
 
-Assistant professor,   
-Department of Microbiology and Immunology,   
+Assistant professor   
+Department of Microbiology and Immunology   
 Emory University  
 
 
