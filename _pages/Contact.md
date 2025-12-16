@@ -11,4 +11,4 @@ Our lab is located at the Rollins Research Center at Emory University.
   Atlanta, GA 30322
 
 
-We are recruiting highly motivated postdoctoral fellows, graduate students, and research specialists to join our team. If interested​, please contact us at boyoung [dot] shin [at] emory [dot] edu
+We are recruiting highly motivated postdoctoral fellows, graduate students, and research specialists to join our team. If interested​, please contact us at boyoung.shin [at] emory.edu
