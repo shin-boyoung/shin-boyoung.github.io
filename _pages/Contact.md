@@ -7,7 +7,7 @@ author_profile: true
 
 Our lab is located at the Rollins Research Center at Emory University.
 
-  1510 Clifton Rd Room 3025
+  1510 Clifton Rd Room 3022
   Atlanta, GA 30322
 
 
