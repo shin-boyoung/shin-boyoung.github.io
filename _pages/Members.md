@@ -17,5 +17,3 @@ Graduate programs:
 The Graduate Division of Biological and Biomedical Sciences (GDBBS)
   * The [Immunology and Molecular Pathogenesis (IMP)](https://biomed.emory.edu/PROGRAM_SITES/IMP/) program  
   * The [Genetics and Molecular Biology (GMB)](https://biomed.emory.edu/PROGRAM_SITES/GMB/) program    
-
-
